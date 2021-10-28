@@ -6,9 +6,9 @@ tags: device keyboard
 comments: false
 ---
 
-**Keyboards that I own**
-
 ![Desk Setup](/blog/images/20211028-Desk-Setup.jpg)
+
+**Keyboards that I own**
 
 [Logitech K780](https://www.logitech.com/en-us/products/keyboards/k780-multi-device-wireless-keyboard.920-008149.html){:target="_blank"}
 
@@ -31,6 +31,14 @@ comments: false
 
 ![Logitech MX Keys Mini](https://resource.logitech.com/w_944,h_944,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-keys-mini/gallery/us/mx-keys-mini-top-pale-gray-us.png?v=1)
 
+[Planck EZ](https://ergodox-ez.com/pages/planck){:target="_blank"}
+
+![Planck EZ](https://cdn.shopify.com/s/files/1/1152/3264/t/25/assets/neat-planck-banner.png?v=8240692596812405210)
+
+[ZSA Moonlander](https://www.zsa.io/moonlander/){:target="_blank"}
+
+![ZSA Moonlander](https://www.zsa.io/static/fce10e1a2b0b57f29834f3d0de76e737/8d5c3/1-hero-white.webp)
+
 [Kinesis Advantage2](https://kinesis-ergo.com/shop/advantage2/){:target="_blank"}
 
 ![Kinesis Advantage2](https://kinesis-ergo.com/wp-content/uploads/kb600-oh-fullsize.jpg)
@@ -38,6 +46,7 @@ comments: false
 [Qwerkywriter](https://www.qwerkywriter.com/collections/frontpage/products/new-qwerkywriter-s-mona-lisa-gold-limited-edition-coming-soon){:target="_blank"}
 
 ![Qwerkywriter](https://cdn.shopify.com/s/files/1/0557/2745/products/QWS_BLACKGOLD_FRONTHERO_1_1.jpg?v=1627946772)
+
 
 **Keyboards that I want to try but definitely won't buy**
 
@@ -47,4 +56,4 @@ comments: false
 
 [RAMA WORKS](https://rama.works){:target="_blank"}
 
-![RAMA WORKS M65-C](https://cdn.shopify.com/s/files/1/2689/3156/products/RW-M65-C.86_900x900.png?v=1635339277)
+![RAMA WORKS M65-C](https://images.squarespace-cdn.com/content/v1/563c788ae4b099120ae219e2/1635388096021-GP4EHKWY4HPLABKC5HSC/RW-M65-C-MILK-c.jpg?format=2500w)
